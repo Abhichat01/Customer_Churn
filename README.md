@@ -8,7 +8,7 @@ dictionary.<br>
 
 **Tasks To Be Performed**:<br>
 
-**1. Data Manipulation**:
+**1. Data Manipulation**:<br>
 ● Extract the 5th column and store it in ‘customer_5’<br>
 ● Extract the 15th column and store it in ‘customer_15’<br>
 ● Extract all the male senior citizens whose payment method is electronic
