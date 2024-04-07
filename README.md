@@ -3,7 +3,7 @@ are churning out to its competitors. You have to analyze the data of your
 company and find insights and stop your customers from churning out to other
 telecom companies.<br>
 **Customer_churn Dataset**:<br>The details regarding this ‘customer_churn’ dataset are present in the data
-dictionary.<br>
+dictionary (customer_churn.csv).<br>
 **Domain**: Telecom
 
 **Tasks To Be Performed**:<br>
